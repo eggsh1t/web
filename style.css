@@ -1,4 +1,7 @@
 body {
     background-color: #0E003D;
+}
+
+body * {
     color:#E7FFD9;
 }
