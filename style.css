@@ -8,6 +8,9 @@ body *{
 
 .header {
     background-color:gray;
+    top:0%;
+    right:0%;
+    left:0%;
 }
 
 a:hover {
