@@ -9,3 +9,7 @@ body *{
 .header {
     background-color:gray;
 }
+
+a:hover {
+    text-decoration:double lightslategray;
+}
