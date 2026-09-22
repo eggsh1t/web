@@ -5,3 +5,7 @@ body {
 body *{
     color:#E7FFD9;
 }
+
+.header {
+    background-color: gray;
+}
