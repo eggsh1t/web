@@ -16,12 +16,12 @@ body *{
     text-align: center;
 }
 
-a:hover {
+.Header a:hover {
     text-decoration:double rgb(255, 255, 148);
     color: aliceblue;
 }
 
-a {
+.Header a {
     text-decoration: none;
     color:aqua;
 }
