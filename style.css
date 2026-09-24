@@ -11,9 +11,13 @@ body *{
     top:0%;
     right:0%;
     left:0%;
-    height:5%
+    height:5%;
+    position:sticky;
 }
 
 a:hover {
     text-decoration:double yellow;
+}
+a {
+    text-decoration: none;
 }
