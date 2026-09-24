@@ -13,6 +13,7 @@ body *{
     left:0%;
     height:8%;
     position:sticky;
+    text-align: center;
 }
 
 a:hover {
