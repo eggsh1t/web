@@ -17,13 +17,16 @@ body *{
 
 a:hover {
     text-decoration:double rgb(255, 255, 148);
+    color: aliceblue;
 }
 
 a {
     text-decoration: none;
+    color:aqua;
 }
 
 .Title {
     color:#8ed619;
     font-family: fantasy;
+    text-align: center;
 }
