@@ -16,7 +16,7 @@ body *{
 }
 
 a:hover {
-    text-decoration:double yellow;
+    text-decoration:double rgb(255, 255, 148);
 }
 a {
     text-decoration: none;
