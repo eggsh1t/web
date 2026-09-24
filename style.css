@@ -6,7 +6,7 @@ body *{
     color:#E7FFD9;
 }
 
-.header {
+.Header {
     background-color:gray;
     top:0%;
     right:0%;
@@ -18,6 +18,13 @@ body *{
 a:hover {
     text-decoration:double rgb(255, 255, 148);
 }
+
 a {
     text-decoration: none;
+}
+
+.Title {
+    color:#8ed619;
+    font-weight: bold;
+    font-family: fantasy;
 }
